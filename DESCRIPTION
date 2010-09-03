@@ -1,0 +1,8 @@
+Package: snoplus
+Title:	 SNO+
+Version: 0.1
+Date:	 2010-09-02
+Author:	 Jared Nance
+Maintainer: Jared Nance <nancejk@uw.edu>
+Description: Utilities and Data related to the SNO+ experiment.
+License: MIT
